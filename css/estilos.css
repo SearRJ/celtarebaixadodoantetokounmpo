@@ -1,0 +1,39 @@
+body {background-image: url('https://www.theplayoffs.com.br/wp-content/uploads/2019/03/Giannis-Antetokounmpo.jpg');
+    font-family: Arial;
+      background-size: auto auto;
+      height:100vh;
+    }
+    
+    .menu {
+      background: none
+    }
+    
+    .menu li{
+      list-style: none;
+    }
+    
+    a {
+      text-decoration: none;
+      color: green
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .menu ul {
+      display: flex;
+      justify-content: space-around;
+    }
+    
+    .site-title {
+      text-align: center;
+      color: green;
+      
+    }
+    
+    .site-subtitle {
+      text-align: center;
+      color: green;
+      font-style: none;
+    }
